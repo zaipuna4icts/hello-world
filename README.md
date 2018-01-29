@@ -1,2 +1,3 @@
 # hello-world
 Reconnecting back to Software Development game...
+Did coding with Visual Basic for Dos, then Visual Basic for Windows...Microsoft products....that was in 1991 -1998
